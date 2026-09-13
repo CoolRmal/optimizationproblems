@@ -45,7 +45,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [16](https://teorth.github.io/optimizationproblems/constants/16a.html) | Brezis–Gallouet–Wainger remainder constant on the 2D torus | $\frac{\beta + \pi}{\pi} \approx 1.82283$ | $\approx 2.15627$ |
 | [17](https://teorth.github.io/optimizationproblems/constants/17a.html) | Exponential growth constant of diagonal Ramsey numbers | $\sqrt{2} \approx 1.4142$ | 3.7919936995 |
 | [18](https://teorth.github.io/optimizationproblems/constants/18a.html) | Marton's conjecture constant (PFR) | 1 | 9 |
-| [19](https://teorth.github.io/optimizationproblems/constants/19a.html) | Berry–Esseen constant | 0.4097321837 | 0.4690 |
+| [19](https://teorth.github.io/optimizationproblems/constants/19a.html) | Berry–Esseen constant | 0.4097321837 | 0.4690 (0.423*) |
 | [20a](https://teorth.github.io/optimizationproblems/constants/20a.html) | Thin shell conjecture constant | 2 | $< \infty$ |
 | [20b](https://teorth.github.io/optimizationproblems/constants/20b.html) | Isotropic constant of a log-concave probability measure | $1/e$ | $< \infty$ |
 | [20c](https://teorth.github.io/optimizationproblems/constants/20c.html) | KLS constant for log-concave probability measures | $\sqrt{\pi/2} \approx 1.25331$ | $\infty$ |
@@ -158,6 +158,8 @@ Bounds for which the level of available verification is currently at minimal lev
 - [15a](https://teorth.github.io/optimizationproblems/constants/15a.html) **improved upper bound:** $C_{15a} \leq 2.371177$ by [E. Dupont, M. Eisenberger, B. Kozlovskii, A. Mehrabian, F. J. R. Ruiz, A. See, R. Zhou, J. Alman, V. Vassilevska Williams, M. Balog](https://arxiv.org/abs/2608.16884), 17 Aug 2026.
 - [43](https://teorth.github.io/optimizationproblems/constants/43a.html) **improved lower bound (unverified):** $C_{43} \geq 0.860*$ (exact $43/50$; certificate-layer result conditional on the lemma set of [KHSHGW2026](https://arxiv.org/abs/2601.22365)) by [J. Savva](https://doi.org/10.5281/zenodo.22223485), 1 Sep 2026.
 - [88a](https://teorth.github.io/optimizationproblems/constants/88a.html) **improved upper bound:** $C_{88a} \leq 186$ via $\mathrm{DHL}[40,2]$, by [OpenAI](https://cdn.openai.com/pdf/51126fac-1b68-4128-9666-c908bcc16033/short_gaps.pdf), 30 Aug 2026, with a Lean 4 formalization conditional on three declared axioms.
+- [19](https://teorth.github.io/optimizationproblems/constants/19a.html) **improved upper bound (unverified):** $C_{19} \leq 0.4395*$ by [H. Xiao and C. Li](https://github.com/haonan-xiao/iid-berry-esseen), 10 Sep 2026.
+- [19](https://teorth.github.io/optimizationproblems/constants/19a.html) **improved upper bound (unverified):** $C_{19} \leq 0.423*$ by [Y. Lin](https://github.com/CoolRmal/BerryEsseen), 13 Sep 2026.
 
 ## Maintainers
 
